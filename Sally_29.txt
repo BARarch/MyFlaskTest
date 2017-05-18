@@ -1,0 +1,12 @@
+Name: Sally
+Age: 29
+
+How many eyes do you have?
+2
+
+Which fruit do you like best?
+banana
+
+Do you like cupcakes?
+yes
+

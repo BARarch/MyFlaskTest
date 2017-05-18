@@ -1,0 +1,12 @@
+Name: Phil
+Age: 66
+
+How many eyes do you have?
+3/
+
+Which fruit do you like best?
+pineapple/
+
+Do you like cupcakes?
+maybe/
+
